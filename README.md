@@ -21,4 +21,4 @@ The purpose of this project is to understand backend fundamentals including rout
 | POST   | /users   | Add new user |
 
 ## Status
-In Progress ✅ (Code will be added next week from laptop)
+In Progress ✅ 
